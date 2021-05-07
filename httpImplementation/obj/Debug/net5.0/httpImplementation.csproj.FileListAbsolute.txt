@@ -1,0 +1,11 @@
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.deps.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\bin\Debug\net5.0\ref\httpImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.pdb
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.AssemblyInfoInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.AssemblyInfo.cs
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.csproj.CoreCompileInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\ref\httpImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.pdb

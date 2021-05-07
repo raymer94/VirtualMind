@@ -1,0 +1,15 @@
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.deps.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.runtimeconfig.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.runtimeconfig.dev.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\ref\EntityFrameworkImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.pdb
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.AssemblyInfoInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.AssemblyInfo.cs
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.csproj.CoreCompileInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\ref\EntityFrameworkImplementation.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.pdb
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.genruntimeconfig.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.csprojAssemblyReference.cache

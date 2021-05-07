@@ -1,0 +1,11 @@
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.deps.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\bin\Debug\net5.0\ref\UnitTesting.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.pdb
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfo.cs
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\ref\UnitTesting.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.pdb

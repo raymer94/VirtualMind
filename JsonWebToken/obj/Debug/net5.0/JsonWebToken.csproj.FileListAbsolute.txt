@@ -1,0 +1,11 @@
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.deps.json
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\bin\Debug\net5.0\ref\JsonWebToken.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.pdb
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.AssemblyInfoInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.AssemblyInfo.cs
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.csproj.CoreCompileInputs.cache
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\ref\JsonWebToken.dll
+C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.pdb

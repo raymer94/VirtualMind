@@ -1,26 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\APIVirtualMind\\APIVirtualMind.csproj": {}
+    "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\APIVirtualMind\\APIVirtualMind.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\APIVirtualMind\\APIVirtualMind.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\APIVirtualMind\\APIVirtualMind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\APIVirtualMind\\APIVirtualMind.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\APIVirtualMind\\APIVirtualMind.csproj",
         "projectName": "APIVirtualMind",
-        "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\APIVirtualMind\\APIVirtualMind.csproj",
-        "packagesPath": "C:\\Users\\ramrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\APIVirtualMind\\obj\\",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\APIVirtualMind\\APIVirtualMind.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\APIVirtualMind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -35,8 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj": {
-                "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj"
+              "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj"
+              },
+              "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj"
               }
             }
           }
@@ -78,27 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj",
         "projectName": "DomainBuilt-in",
-        "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj",
-        "packagesPath": "C:\\Users\\ramrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\DomainBuilt-in\\obj\\",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\DomainBuilt-in.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\DomainBuilt-in\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -113,11 +113,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\Domain.csproj"
-              },
-              "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj": {
-                "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj"
+              "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj"
               }
             }
           }
@@ -156,27 +153,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\Domain.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ramrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -217,27 +211,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj",
         "projectName": "EntityFrameworkImplementation",
-        "projectPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj",
-        "packagesPath": "C:\\Users\\ramrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\EntityFrameworkImplementation\\obj\\",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\EntityFrameworkImplementation.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\EntityFrameworkImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ramrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -251,7 +242,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -300,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

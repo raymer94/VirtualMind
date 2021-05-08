@@ -16,3 +16,21 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\DomainBuilt-in\obj\
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\DomainBuilt-in\obj\Debug\net5.0\ref\DomainBuilt-in.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.pdb
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\DomainBuilt-in.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\DomainBuilt-in.runtimeconfig.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\DomainBuilt-in.runtimeconfig.dev.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\DomainBuilt-in.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\ref\DomainBuilt-in.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\DomainBuilt-in.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\Domain.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\bin\Debug\net5.0\Domain.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.csproj.CopyComplete
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\ref\DomainBuilt-in.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\DomainBuilt-in\obj\Debug\net5.0\DomainBuilt-in.genruntimeconfig.cache

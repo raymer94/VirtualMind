@@ -9,3 +9,15 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Deb
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\ref\UnitTesting.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\bin\Debug\net5.0\ref\UnitTesting.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\bin\Debug\net5.0\UnitTesting.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\ref\UnitTesting.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\UnitTesting\obj\Debug\net5.0\UnitTesting.pdb

@@ -11,30 +11,11 @@ namespace DomainBuilt_in.Services
 {
     class BuiltInTransactionService : TransactionsService
     {
-        private TransactionsRepository TransactionsRepository;
+        private ITransactionsRepository TransactionsRepository;
 
-        public BuiltInTransactionService(TransactionsRepository _TransactionsRepository)
+        public BuiltInTransactionService(ITransactionsRepository _TransactionsRepository)
         {
             this.TransactionsRepository = _TransactionsRepository;
-        }
-
-        public Task CreateOrEditTransactions(Log log)
-        {
-            throw new NotImplementedException();
-        }
-
-        public async Task DeleteTransaction(int id)
-        {
-            if (id == 0)
-            {
-                throw new Exception("Must provide a Transaction id");
-            }
-
-            var CurrencyLimit = await TransactionsRepository.GetTransactionById(id);
-            if (CurrencyLimit == null)
-            {
-                throw new Exception("You must specify a valid Transaction id");
-            }
         }
 
         public async Task<Transactions> GetTransactionById(int id)
@@ -51,11 +32,28 @@ namespace DomainBuilt_in.Services
             }
             return Transaction;
         }
-
         public async Task<IEnumerable<Transactions>> GetTransactions()
         {
             var transactions = await TransactionsRepository.GetTransactions();
             return transactions;
         }
+
+
+        public Task CreateOrEditTransactions(Transactions transaction)
+        {
+            throw new NotImplementedException();
+        }
+
+        public async Task<double> GetTransactionsPerMonth(DateTime month) {
+            var monthlyTransactions = await this.TransactionsRepository
+                .GetTransactions(p => p.transactionDate == month && p.UserId == 2);
+
+            var transactionsSumary = monthlyTransactions.Sum(x => x.Amount);
+
+            return transactionsSumary;
+        }
+
+
+
     }
 }

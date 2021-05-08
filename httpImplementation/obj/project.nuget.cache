@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzpJLnfjWc0bgre91KRXTL+o3ndzaTGkKeejcOyfrgQMSGkWVC688ZFMtgz8/Mv1xL8zCB2ZqOEDPXA3zSiJzA==",
+  "dgSpecHash": "jLKsRImTLgvLlDEI9zbWrwot0XG7fPune8GihpTQ3fOTQVwycrvX3/XiOzrP349fVqpdGmYEjo/pYuPFYNzX5Q==",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\httpImplementation\\httpImplementation.csproj",
+  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\httpImplementation\\httpImplementation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

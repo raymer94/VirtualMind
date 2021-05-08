@@ -9,3 +9,15 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\ref\httpImplementation.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\bin\Debug\net5.0\ref\httpImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\bin\Debug\net5.0\httpImplementation.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\ref\httpImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\httpImplementation\obj\Debug\net5.0\httpImplementation.pdb

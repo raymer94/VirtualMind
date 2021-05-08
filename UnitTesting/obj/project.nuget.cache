@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rr8nq2p1/dSf3YTJJhKiv01HlFEynQXpCHRU+3AZhDBh3eJu+GfGGfIXmhke7ej4X6ZMTtt3CMSobAuvK//46w==",
+  "dgSpecHash": "IJhO5Otj0s5RY3pKu8ecGjILiaI2iyEMrWzb3hiHH0eQgF72nqPGtkqfyW+/eMvlqUcJekSUB716rZDZIRFZ5w==",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo\\curso React\\Gabilan\\App-backend\\APIVirtualMind\\UnitTesting\\UnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\Raymer\\Desktop\\VirtualMind\\APIVirtualMind\\VirtualMind\\UnitTesting\\UnitTesting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

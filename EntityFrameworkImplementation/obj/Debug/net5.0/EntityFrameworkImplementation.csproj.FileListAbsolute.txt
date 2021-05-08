@@ -13,3 +13,18 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImpl
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.pdb
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.genruntimeconfig.cache
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.runtimeconfig.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.runtimeconfig.dev.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\ref\EntityFrameworkImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\bin\Debug\net5.0\EntityFrameworkImplementation.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\ref\EntityFrameworkImplementation.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\EntityFrameworkImplementation\obj\Debug\net5.0\EntityFrameworkImplementation.genruntimeconfig.cache

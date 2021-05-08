@@ -11,8 +11,8 @@ namespace DomainBuilt_in.Services
 {
     public class BuiltInLogService : LogService
     {
-        private LogRepository logRepository;
-        public BuiltInLogService(LogRepository _logRepository)
+        private ILogRepository logRepository;
+        public BuiltInLogService(ILogRepository _logRepository)
         {
             this.logRepository = _logRepository;
         }

@@ -11,6 +11,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DomainBuilt-in\DomainBuilt-in.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\EntityFrameworkImplementation\EntityFrameworkImplementation.csproj" />
   </ItemGroup>
 
 </Project>

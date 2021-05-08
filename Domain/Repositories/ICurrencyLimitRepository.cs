@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Repositories
 {
-    public interface CurrencyLimitRepository
+    public interface ICurrencyLimitRepository
     {
         public Task<IEnumerable<CurrencyLimit>> GetCurrencyLimit();
         public Task<CurrencyLimit> GetCurrencyLimitById(int logId);

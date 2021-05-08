@@ -9,3 +9,15 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\De
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\ref\JsonWebToken.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\bin\Debug\net5.0\ref\JsonWebToken.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\bin\Debug\net5.0\JsonWebToken.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\ref\JsonWebToken.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\JsonWebToken\obj\Debug\net5.0\JsonWebToken.pdb

@@ -11,9 +11,9 @@ namespace DomainBuilt_in.Services
 {
     class BuiltInCurrencyLimitService : CurrencyLimitService
     {
-        private CurrencyLimitRepository currencyLimitRepository;
+        private ICurrencyLimitRepository currencyLimitRepository;
 
-        public BuiltInCurrencyLimitService(CurrencyLimitRepository _currencyLimitRepository) 
+        public BuiltInCurrencyLimitService(ICurrencyLimitRepository _currencyLimitRepository) 
         {
             this.currencyLimitRepository = _currencyLimitRepository;
         }

@@ -9,3 +9,15 @@ C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\Domain\obj\Debug\ne
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\Domain\obj\Debug\net5.0\Domain.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Desarrollo\curso React\Gabilan\App-backend\APIVirtualMind\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Raymer\Desktop\VirtualMind\APIVirtualMind\VirtualMind\Domain\obj\Debug\net5.0\Domain.pdb

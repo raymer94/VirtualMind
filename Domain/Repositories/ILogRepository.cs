@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Repositories
 {
-    public interface LogRepository
+    public interface ILogRepository
     {
         public Task<IEnumerable<Log>> GetLogs();
         public Task<Log> GetLogById(int logId);

@@ -11,7 +11,8 @@ namespace Domain.Services
     {
         public Task<IEnumerable<Transactions>> GetTransactions();
         public Task<Transactions> GetTransactionById(int logId);
-        public Task CreateOrEditTransactions(Log log);
-        public Task DeleteTransaction(int logId);
+
+        public Task<double> GetTransactionsPerMonth(DateTime month);
+        public Task CreateOrEditTransactions(Transactions transaction);
     }
 }

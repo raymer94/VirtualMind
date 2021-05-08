@@ -21,7 +21,7 @@ namespace DomainBuilt_in.Services
         public Transaction GetTransactionById(int id)
         {
             if (id == 0)
-            {
+            { 
                 throw new Exception("Must provide a Transaction id");
             }
 

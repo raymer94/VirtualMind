@@ -13,7 +13,7 @@ namespace EntityFrameworkImplementation.Repositories
     {
         private readonly CurrencyContext transactions = new CurrencyContext();
 
-        public IEnumerable<Transaction> GetTransactions()
+        public List<Transaction> GetTransactions()
         {
             var transactionsList = transactions.Transactions.ToList();
             return transactionsList;

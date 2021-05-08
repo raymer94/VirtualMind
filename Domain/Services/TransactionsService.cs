@@ -9,10 +9,10 @@ namespace Domain.Services
 {
     public interface TransactionsService
     {
-        public Task<IEnumerable<Transactions>> GetTransactions();
-        public Task<Transactions> GetTransactionById(int logId);
+        public IEnumerable<Transaction> GetTransactions();
+        public Transaction GetTransactionById(int logId);
 
-        public Task<double> GetTransactionsPerMonth(DateTime month);
-        public Task CreateOrEditTransactions(Transactions transaction);
+        public double GetTransactionsPerMonth(DateTime month);
+        public bool CreateOrEditTransactions(Transaction transaction);
     }
 }

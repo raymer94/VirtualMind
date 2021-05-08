@@ -10,10 +10,9 @@ namespace Domain.Repositories
 {
     public interface ITransactionsRepository
     {
-
-        public Task<IEnumerable<Transactions>> GetTransactions();
-        public Task<IEnumerable<Transactions>> GetTransactions(Expression<Func<Transactions, bool>> filter);
-        public Task<Transactions> GetTransactionById(int id);
-        public Task CreateOrEditTransactions(Transactions transaction);
+        public List<Transaction> GetTransactions();
+        public IEnumerable<Transaction> GetTransactions(Expression<Func<Transaction, bool>> filter);
+        public Transaction GetTransactionById(int id);
+        public bool CreateOrEditTransactions(Transaction transaction);
     }
 }

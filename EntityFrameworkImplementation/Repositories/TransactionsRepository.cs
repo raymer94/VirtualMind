@@ -11,27 +11,27 @@ namespace EntityFrameworkImplementation.Repositories
 {
     public class TransactionsRepository: ITransactionsRepository
     {
-        private readonly test2Context transaction = new test2Context();
+        private readonly CurrencyContext transactions = new CurrencyContext();
 
-        public Task<IEnumerable<Transaction>> GetTransactions()
+        public IEnumerable<Transaction> GetTransactions()
         {
-            var transactions = transaction.Transactions.ToList();
-            return transactions;
+            var transactionsList = transactions.Transactions.ToList();
+            return transactionsList;
         }
 
-        public Task<IEnumerable<Transaction>> GetTransactions(Expression<Func<Transaction, bool>> filter)
+        public IEnumerable<Transaction> GetTransactions(Expression<Func<Transaction, bool>> filter)
         {
-            return transaction.Transactions.Where(filter).ToList();
+            return transactions.Transactions.Where(filter).ToList();
         }
-        public Task<Transaction> GetTransactionById(int id)
+        public Transaction GetTransactionById(int id)
         {
-            var User = transaction.Transactions.Find(id);
+            var User = transactions.Transactions.Find(id);
             return User;
         }
 
-        public Task CreateOrEditTransactions(Transaction _transaction)
-        {
-            transaction.Add(_transaction);
+        public bool CreateOrEditTransactions(Transaction transaction) {
+            transactions.Add(transaction);
+            return true;
         }
     }
 }

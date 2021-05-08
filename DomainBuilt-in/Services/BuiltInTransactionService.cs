@@ -18,42 +18,40 @@ namespace DomainBuilt_in.Services
             this.TransactionsRepository = _TransactionsRepository;
         }
 
-        public async Task<Transactions> GetTransactionById(int id)
+        public Transaction GetTransactionById(int id)
         {
             if (id == 0)
             {
                 throw new Exception("Must provide a Transaction id");
             }
 
-            var Transaction = await TransactionsRepository.GetTransactionById(id);
+            var Transaction =  TransactionsRepository.GetTransactionById(id);
             if (Transaction == null)
             {
                 throw new Exception("You must specify a valid Transaction id");
             }
             return Transaction;
         }
-        public async Task<IEnumerable<Transactions>> GetTransactions()
+        public IEnumerable<Transaction> GetTransactions()
         {
-            var transactions = await TransactionsRepository.GetTransactions();
+            var transactions =  TransactionsRepository.GetTransactions();
             return transactions;
         }
 
 
-        public Task CreateOrEditTransactions(Transactions transaction)
+        public bool CreateOrEditTransactions(Transaction transaction)
         {
+             TransactionsRepository.CreateOrEditTransactions(transaction);
             throw new NotImplementedException();
         }
 
-        public async Task<double> GetTransactionsPerMonth(DateTime month) {
-            var monthlyTransactions = await this.TransactionsRepository
+        public double GetTransactionsPerMonth(DateTime month) {
+            var monthlyTransactions =  this.TransactionsRepository
                 .GetTransactions(p => p.transactionDate == month && p.UserId == 2);
 
             var transactionsSumary = monthlyTransactions.Sum(x => x.Amount);
 
             return transactionsSumary;
         }
-
-
-
     }
 }

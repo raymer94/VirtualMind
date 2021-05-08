@@ -22,14 +22,17 @@ namespace APIVirtualMind.Controllers
             return Ok(RateCurrency);
         }
 
-        [HttpGet("{Currency}")]
-        public async Task<IActionResult> BuyCurrency(int UserId, float amount, string currency)
-        {
-            var date = DateTime.Now();
-            BuiltInTransactionService Rate = new BuiltInTransactionService();
+        //[HttpGet("{Currency}")]
+        //public async Task<IActionResult> BuyCurrency(int UserId, float amount, string currency)
+        //{
+        //    var date = DateTime.Now;
 
-            var BuyCurrencyByUser = await Rate.(UserId, amount, currency);
-            // return Ok(RateCurrency);
-        }
+
+
+        //    CreateOrEditTransactions Rate = new CreateOrEditTransactions();
+
+        //    var BuyCurrencyByUser = await Rate.(UserId, amount, currency, date);
+        //    // return Ok(RateCurrency);
+        //}
     }
 }
